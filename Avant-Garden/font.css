@@ -1,5 +1,5 @@
 @font-face {
-  font-family: 'Avant Garde Gothic T.';
+  font-family: 'Avant.Garde';
   src: url('Avant Garde Gothic T..eot');
   src: url('Avant Garde Gothic T..woff2') format('woff2'),
        url('Avant Garde Gothic T..eot?#iefix') format('embedded-opentype');
@@ -8,7 +8,7 @@
 }
 
 @font-face {
-  font-family: 'Avant-GardeGothicT.';
+  font-family: 'Avant.Garde.2';
   src: url('Avant-GardeGothicT..woff') format('woff'),
        url('Avant-GardeGothicT..ttf') format('truetype'),
        url('Avant-GardeGothicT..svg#Avant-GardeGothicT.') format('svg');
