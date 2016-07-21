@@ -1,0 +1,18 @@
+@font-face {
+  font-family: 'Avant Garde Gothic T.';
+  src: url('Avant Garde Gothic T..eot');
+  src: url('Avant Garde Gothic T..woff2') format('woff2'),
+       url('Avant Garde Gothic T..eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Avant-GardeGothicT.';
+  src: url('Avant-GardeGothicT..woff') format('woff'),
+       url('Avant-GardeGothicT..ttf') format('truetype'),
+       url('Avant-GardeGothicT..svg#Avant-GardeGothicT.') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
