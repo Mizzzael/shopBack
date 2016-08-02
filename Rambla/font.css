@@ -7,7 +7,6 @@
        url('Rambla-Regular.ttf') format('truetype'),
        url('Rambla-Regular.svg#Rambla-Regular') format('svg'),
        url('Rambla-Regular.eot?#iefix') format('embedded-opentype');
-  font-weight: normal;
   font-style: normal;
 }
 
@@ -20,6 +19,5 @@
        url('Rambla-Bold.ttf') format('truetype'),
        url('Rambla-Bold.svg#Rambla-Bold') format('svg'),
        url('Rambla-Bold.eot?#iefix') format('embedded-opentype');
-  font-weight: normal;
   font-style: normal;
 }
