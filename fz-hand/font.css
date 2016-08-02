@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'fz-hand';
+  src: url('fz-hand-25.eot');
+  src: url('fz-hand-25.woff2') format('woff2'),
+       url('fz-hand-25.woff') format('woff'),
+       url('fz-hand-25.ttf') format('truetype'),
+       url('fz-hand-25.svg#fz-hand-25') format('svg'),
+       url('fz-hand-25.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
