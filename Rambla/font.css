@@ -1,0 +1,25 @@
+@font-face {
+  font-family: 'Rambla-Regular';
+  font-weight: 300;
+  src: url('Rambla-Regular.eot');
+  src: url('Rambla-Regular.woff2') format('woff2'),
+       url('Rambla-Regular.woff') format('woff'),
+       url('Rambla-Regular.ttf') format('truetype'),
+       url('Rambla-Regular.svg#Rambla-Regular') format('svg'),
+       url('Rambla-Regular.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Rambla-Regular';
+  font-weight: 600;
+  src: url('Rambla-Bold.eot');
+  src: url('Rambla-Bold.woff2') format('woff2'),
+       url('Rambla-Bold.woff') format('woff'),
+       url('Rambla-Bold.ttf') format('truetype'),
+       url('Rambla-Bold.svg#Rambla-Bold') format('svg'),
+       url('Rambla-Bold.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
