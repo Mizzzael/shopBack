@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Verlag-Book';
+  src: url('Verlag-Book.eot');
+  src: url('Verlag-Book.woff2') format('woff2'),
+       url('Verlag-Book.woff') format('woff'),
+       url('Verlag-Book.ttf') format('truetype'),
+       url('Verlag-Book.svg#Verlag-Book') format('svg'),
+       url('Verlag-Book.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
